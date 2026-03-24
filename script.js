@@ -2,7 +2,7 @@ const questions = [
     { q: "Lets start easy, what is your name? (Include caps and accent)", a: "Adrián" },
     { q: "How many words are in the sentence 'I love you so much my beautiful angel boyfriend future husband if I don't fuck it up before then'?", a: "19" },
     { q: "What is my name?", a: "Anina" },
-    { q: "Are you excited for biopic on Sunday? (YES YES OF COURSE MY LOVE/Yes/no)", a: "YES YES OF COURSE MY LOVE" },
+    { q: "Are you excited for bioparc on Sunday? (YES YES OF COURSE MY LOVE/Yes/no)", a: "YES YES OF COURSE MY LOVE" },
     { q: "What show are we currently watching?", a: "Peaky Blinders" }
 ];
 
