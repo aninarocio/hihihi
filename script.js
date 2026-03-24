@@ -46,7 +46,7 @@ submitBtn.addEventListener("click", () => {
 
         // Añadir imagen correcta
         const img = document.createElement("img");
-        img.src = `imagen${current}.png`;
+        img.src = `imagen${current + 1}.png`;
         imagesContainer.appendChild(img);
 
         current++;
