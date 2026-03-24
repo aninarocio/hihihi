@@ -46,7 +46,7 @@ submitBtn.addEventListener("click", () => {
 
         // Añadir imagen correcta
         const img = document.createElement("img");
-        img.src = `imagenes/imagen${current + 1}.jpg`;
+        img.src = `imagen${current + 1}.jpg`;
         imagesContainer.appendChild(img);
 
         current++;
@@ -67,7 +67,7 @@ submitBtn.addEventListener("click", () => {
 
         // Crear imagen incorrecta aleatoria
         const img = document.createElement("img");
-        img.src = `imagenes/incorrecto${randomNum}.jpg`;
+        img.src = `incorrecto${randomNum}.jpg`;
         imagesContainer.appendChild(img);
     }
 });
